@@ -205,3 +205,7 @@ venv.bak/
 # mypy
 
 .mypy_cache/
+
+examples/output/
+trainingProgress.pdf
+.vscode/
