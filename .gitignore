@@ -209,3 +209,4 @@ venv.bak/
 examples/output/
 trainingProgress.pdf
 .vscode/
+data/
